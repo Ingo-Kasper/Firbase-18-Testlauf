@@ -1,12 +1,12 @@
 export const environment = {
     production: false,
     firebase: {
-      apiKey: "DEINE_API_KEY",
-      authDomain: "DEIN_AUTH_DOMAIN",
-      databaseURL: "DEIN_DATABASE_URL",
-      projectId: "DEIN_PROJECT_ID",
-      storageBucket: "DEIN_STORAGE_BUCKET",
-      messagingSenderId: "DEIN_MESSAGING_SENDER_ID",
-      appId: "DEIN_APP_ID",
+      apiKey: "AIzaSyD3AmzscmnKDRTDz5bRsq6wgtDtRx-WBdo",
+      authDomain: "firbase-18-testlauf.firebaseapp.com",
+      projectId: "firbase-18-testlauf",
+      storageBucket: "firbase-18-testlauf.firebasestorage.app",
+      messagingSenderId: "527336778992",
+      appId: "1:527336778992:web:cf85b439de8cb165ae2635",
+      measurementId: "G-YYZ55RRWZL"
     },
   };
